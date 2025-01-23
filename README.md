@@ -2,7 +2,7 @@
 Welcome to the dev-up mentorship program. This will be our main material.
 The structure of this material requires you to be entirely self-driven.
 Stick through to the very end and you will come out a junior developer. A developer non-the-less.
-This is new information to you. It will feel strange and complex, but with repetition as you grow in your career, they will get normal. So take heart.
+This is new information to you. It will feel strange and complex, but with repetition as you grow in your career, it will get normal. So take heart. Also, take this slow; one step at a time...
 
 ## Intro to Computer Science
 
@@ -95,7 +95,33 @@ In this module, we will cover what the internet is and how it works.
 
 - [x] [How The World Wide Web Works](http://www.explainthatstuff.com/howthewebworks.html)
 
+- [x] [How the internet works](https://youtu.be/zN8YNNHcaZc?si=dA8bMQKNohwZ71y5)
 
 
+## The best part :: C0D1NG challenge
+
+- [X] [Complete this fullstack developer challenge.](https://www.freecodecamp.org/learn/full-stack-developer/)
+
+- [X] [Learn vs-code.](https://youtu.be/WPqXP_kLzpo?si=ap8Ht5JgahxomRY2)
+
+- [X] [Learn git.](https://youtu.be/RGOj5yH7evk?si=uoxwpVdBHVbp0sZw)
+
+- [X] [Simple HTML, CSS and Javascript webpage (Apply the git you have learnt)](https://youtu.be/krfUjg0S2uI?si=pAfK129uImp9HDhj)
+
+- [X] [Learn React](https://youtu.be/2-crBg6wpp0?si=iQYWj7rF8kaWDDqk)
+
+- [X] [Model-View-Controller (MVC) Explained](https://realpython.com/blog/python/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
+
+- [X] [Learn SQL.](https://youtu.be/-fW2X7fh7Yg?si=YAv51WMm15BffuJS)
+
+- [X] [Build a REST API](https://youtu.be/OTz2mlLYeWU?si=xYRIZ18n_-78yTRM)
+
+- [X] [Cyber Security](https://youtu.be/YYe0FdfdgDU?si=MFO_rBEDn2GbwoP2)
+
+## => You are now ready. Build a fullstack To-Do App.
+- Technology stack; Reactjs, Expressjs, Knexjs, add authentication using passportjs, postgresql(database) and track all this on git.
+- In this app, I should be able to add a task, delete a task, mark a task as complete. Another user shouldn't delete my tasks or mark my tasks as complete or incomplete.
+- If you want to, you can add test cases to the application. Highly encouraged.
+- You can now showcase this application and code at interviews and, should be just fine... I'm proud of you!
 
 Credit: This material was inspired by the Andela home study material, of old(sadly) and credit to https://github.com/akhilome/andela-homestudy for keeping a record of what it looked like back in the day.
