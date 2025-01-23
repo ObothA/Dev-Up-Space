@@ -69,6 +69,33 @@ Recursion is a method where the solution to a problem depends on solutions to sm
 
 
 
+## Software Engineering
+
+This module will cover all the phases of software development. Starting from software requirement analysis, to design, to implementation, to testing, to deployment and finally to maintenance.
+
+- [x] [Software Engineering Overview](http://www.tutorialspoint.com/software_engineering/software_engineering_overview.htm)
+
+- [x] [Software Development Life Cycle Overview](http://www.tutorialspoint.com/sdlc/sdlc_quick_guide.htm)
+
+
+
+## The Internet
+
+In this module, we will cover what the internet is and how it works.
+
+- [x] [What is The Internet](https://www.computerhope.com/jargon/i/internet.htm)
+
+- [x] [How The Internet Works](https://blog.hubspot.com/marketing/how-the-internet-works#sm.0000i8dcdo167uepfr7g8tvppgibd)
+
+- [x] [What Is Email](http://searchexchange.techtarget.com/definition/e-mail-electronic-mail-or-email)
+
+- [x] [Introduction to Computer Networks](https://www.ibm.com/think/topics/networking)
+
+- [x] [Introduction to Computer Networks](https://www.geeksforgeeks.org/what-is-computer-networking/)
+
+- [x] [How The World Wide Web Works](http://www.explainthatstuff.com/howthewebworks.html)
+
+
 
 
 Credit: This material was inspired by the Andela home study material, of old(sadly) and credit to https://github.com/akhilome/andela-homestudy for keeping a record of what it looked like back in the day.
