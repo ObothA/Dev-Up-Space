@@ -39,6 +39,34 @@ A data structure is a logical concept that introduces a way to organize data so 
 
 
 
+## Algorithms
+
+An algorithm is a set of finite rules or instructions to be followed in calculations or other problem-solving operations
+
+- [x] [Learning Algorithms from Scratch](http://adrianmejia.com/blog/2011/12/22/learning-algorithms-from-scratch-algorithms-for-dummies/)
+
+- [x] [Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48)
+
+- [x] [The Importance of Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/)
+
+- [x] [What Is Algorithm Analysis?](https://runestone.academy/ns/books/published/pythonds/AlgorithmAnalysis/WhatIsAlgorithmAnalysis.html)
+
+
+
+## Recursion
+
+Recursion is a method where the solution to a problem depends on solutions to smaller instances of the same problem. We have seen that functions are named procedures which perform distinct tasks or services. This module will address recursion as a technique involving the use of functions.
+
+- [x] [An Introduction to Recursion](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/)
+
+- [x] [Multiple Related Decisions](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/)
+
+- [x] [Recursion and Applicative Programming](http://courses.cs.washington.edu/courses/cse341/03wi/scheme/recursion.html)
+
+- [x] [Recursive Functions](http://pages.cs.wisc.edu/~calvin/cs110/RECURSION.html)
+
+- [x] [Iteration vs Recursion](http://www2.hawaii.edu/~tp_200/lectureNotes/recursion.htm)
+
 
 
 
