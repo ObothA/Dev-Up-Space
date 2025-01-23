@@ -108,13 +108,13 @@ In this module, we will cover what the internet is and how it works.
 
 - [X] [Simple HTML, CSS and Javascript webpage (Apply the git you have learnt)](https://youtu.be/krfUjg0S2uI?si=pAfK129uImp9HDhj)
 
-- [X] [Learn React](https://youtu.be/2-crBg6wpp0?si=iQYWj7rF8kaWDDqk)
+- [X] [Learn React (Apply the git you have learnt)](https://youtu.be/2-crBg6wpp0?si=iQYWj7rF8kaWDDqk)
 
 - [X] [Model-View-Controller (MVC) Explained](https://realpython.com/blog/python/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
 
 - [X] [Learn SQL.](https://youtu.be/-fW2X7fh7Yg?si=YAv51WMm15BffuJS)
 
-- [X] [Build a REST API](https://youtu.be/OTz2mlLYeWU?si=xYRIZ18n_-78yTRM)
+- [X] [Build a REST API (Apply the git you have learnt)](https://youtu.be/OTz2mlLYeWU?si=xYRIZ18n_-78yTRM)
 
 - [X] [Cyber Security](https://youtu.be/YYe0FdfdgDU?si=MFO_rBEDn2GbwoP2)
 
