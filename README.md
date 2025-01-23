@@ -122,6 +122,6 @@ In this module, we will cover what the internet is and how it works.
 - Technology stack; Reactjs, Expressjs, Knexjs, add authentication using passportjs, postgresql(database) and track all this on git.
 - In this app, I should be able to add a task, delete a task, mark a task as complete. Another user shouldn't delete my tasks or mark my tasks as complete or incomplete.
 - If you want to, you can add test cases to the application. Highly encouraged.
-- You can now showcase this application and code at interviews and, should be just fine... I'm proud of you!
+- You can now showcase this application with it's code at interviews and, you should be just fine... I'm proud of you!
 
 Credit: This material was inspired by the Andela home study material, of old(sadly) and credit to https://github.com/akhilome/andela-homestudy for keeping a record of what it looked like back in the day.
